@@ -206,7 +206,7 @@ export default function Skills() {
                 <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-primary-glow flex items-center justify-center">
                   <Globe size={18} className="text-primary-foreground" />
                 </div>
-                Web Development
+                Core competencies
               </h3>
 
               <div className="space-y-6">

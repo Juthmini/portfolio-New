@@ -59,8 +59,8 @@ export default function Footer() {
         {/* Copyright */}
         <div className="text-center">
           <p className="text-sm text-background/70 flex items-center justify-center gap-1">
-            © {currentYear} Juthmini Gunawardhana. Made with
-            <Heart size={14} className="text-secondary fill-secondary" />
+            © {currentYear} Juthmini Gunawardhana.
+  
             All rights reserved.
           </p>
         </div>
